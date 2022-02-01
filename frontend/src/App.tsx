@@ -2,7 +2,7 @@
 function App() {
   return (
     
-      <h1> PAgina principal</h1>
+      <h1> Pagina principal</h1>
 
     
   );
