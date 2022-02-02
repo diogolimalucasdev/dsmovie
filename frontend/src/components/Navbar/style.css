@@ -3,14 +3,14 @@ header {
     background-color: var(--color-primary);
     display: flex;
     align-items: center;
-    color: rgb(139, 54, 54);
+    color: #fff;
 }
 
 .dsmovie-nav-content {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    color: rgb(139, 54, 54);
+    color: #fff;
 }
 
 .dsmovie-nav-content h1 {
